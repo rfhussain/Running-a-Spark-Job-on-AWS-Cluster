@@ -1,4 +1,4 @@
-# Running-Huge-Spark-Job-on-AWS-Clusters
+# Running a Spark Job on AWS Clustered Environment
 
 Running the Spark Job in the AWS Cloud (write more, introducing what is AWS environment)
 
