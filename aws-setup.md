@@ -18,6 +18,7 @@ Once done, Click on ```Sign In to the Console``` as shown in the picture below
 
 On the AWS Console Page, under All Services, click on ```EMR``` which you can find under ```Analytics``` as shown below
 
+![AWSEMR](/images/emr_analytics.png)
 
 
 
