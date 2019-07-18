@@ -9,7 +9,8 @@ This is obviously a huge computation  and may take a little while, depending upo
 
 It is obvious, that if this this script is run on a personal computer without any distribution applied to it, the Job will certainly fail. 
 
-So, for this specific piece of code, a clustured environment is necessary. As a matter of fact, in Data Science, we tend to encounter Datasets which are often huge, and an example of running huge jobs using a MapReduce clustured environment is quite relevent.
+So, for this specific piece of code, a clustured environment is necessary. As a matter of fact, in Data Science, we tend to encounter Datasets which are often huge, if you don't have a clustered environment setup then AWS is a good option.
+#### But only in a case if you pay extra attention to terminating your clusters after the job is over. 
 
 Below is the step by step example of how I did it.
 
