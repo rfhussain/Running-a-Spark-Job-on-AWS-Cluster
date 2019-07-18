@@ -14,7 +14,7 @@ You will receive email and the last step would be to complete your identificatio
 
 Once done, Click on Sign In to AWS Console as shown in the picture below
 
-
+![AWS Con](/images/sign_in_console.PNG)
 
 
 
