@@ -4,7 +4,7 @@ Please note that you are going to need to provide your Credit Card Number in ord
 
 You can also choose a “Basic” plan which will just work fine and you will only be charge for the Cluster you’ve rented for running the SPARC job. 
 
-### Caution: Once you are done running your clustered job, you must shutdown (or terminate your cluster) or else, the charging will continue each and every second. 
+### Caution: Once you are done running your SPARK job on the AWS, you must shutdown (or terminate your cluster) or else, the charging will continue each and every second and you will end up billed for $$$. 
 
 -	Go to https://aws.amazon.com/
 -	Create an Amazon Web Services Account
