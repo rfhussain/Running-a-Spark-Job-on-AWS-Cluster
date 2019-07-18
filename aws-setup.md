@@ -12,7 +12,7 @@ You can also choose a “Basic” plan which will just work fine and you will on
 
 You will receive email and the last step would be to complete your identification, that is you will have to provide your phone number, where a security code will be sent and you can take that code and enter in the website to complete your registration. 
 
-Once done, Click on ```Sign In to AWS Console``` as shown in the picture below
+Once done, Click on ```Sign In to the Console``` as shown in the picture below
 
 ![AWS Con](/images/sign_in_console.PNG)
 
