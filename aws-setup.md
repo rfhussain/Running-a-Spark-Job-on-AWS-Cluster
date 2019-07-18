@@ -16,7 +16,7 @@ Once done, Click on ```Sign In to the Console``` as shown in the picture below
 
 ![AWS Con](/images/sign_in_console.PNG)
 
-Once the AWS instances are up and running, you need to actually connect to them in order to execute the job. For that, we need to have a public and private key pair. click on ```EC2``` to get the public and private key pair, as shown in the image below. 
+Once the AWS instances are up and running, you need to actually connect to them in order to execute the job. For that, we need to have a public and private key pair. click on ```EC2``` to get the public and private key pair, as shown in the image below. These pair will help us sign in to the EMR cluster. 
 
 ![AWSEMR](/images/ec_2.PNG)
 
