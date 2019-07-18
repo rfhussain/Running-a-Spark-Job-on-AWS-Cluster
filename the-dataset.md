@@ -3,7 +3,7 @@
 In the example, I am going to use Movies & their Ratings Dataset. 
 The Dataset is about users who've watched certain movies and provided their Ratings which can be from 1 to 5. 
 
-For this example, I am going to download 1million movie ratings Dataset from the following website.
+For this example, I am going to download 1-million movie ratings Dataset from the following website.
 https://grouplens.org/
 
 There are different Datasets available for download. Just click on “datasets” link on the top of the page.
