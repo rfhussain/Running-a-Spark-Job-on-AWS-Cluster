@@ -11,4 +11,11 @@ So, for this specific piece of code, a clustured environment is necessary. As a 
 
 The detailed Steps for setting up AWS as well as preparing the script and Dataset will follow.
 
+#### [The Dataset](the-dataset.md)
+#### [Setting Up AWS](the-dataset.md)
+#### [Setting Up AWS](setup-aws.md)
+#### [Understanding the Code](the-code.md)
+#### [Setting Up Local Ennvironment](local-setup.md)
+#### [The Spark Job](spark-job.md)
+#### [The Source File](same-movies.py)
 
