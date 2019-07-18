@@ -37,6 +37,6 @@ MovieID::Title::Genres
 We are going to use the MovieID and Title only for this example. 
 
 - [Main Page](README.md)
-- [Setting Up AWS](the-dataset.md)
+- [Setting Up AWS](aws-setup.md)
 
 
