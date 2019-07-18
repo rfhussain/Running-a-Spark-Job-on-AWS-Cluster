@@ -13,7 +13,7 @@ The detailed Steps for setting up AWS as well as preparing the script and Datase
 
 - [The Data Science Perspective](the-prespective.md)
 - [The Dataset](the-dataset.md)
-- [Setting Up AWS](the-dataset.md)
+- [Setting Up AWS](aws-setup.md)
 - [Understanding the Code](the-code.md)
 - [Setting Up Local Ennvironment](local-setup.md)
 - [The Spark Job](spark-job.md)
