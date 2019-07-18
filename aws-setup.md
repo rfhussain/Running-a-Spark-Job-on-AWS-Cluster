@@ -20,5 +20,14 @@ On the AWS Console Page, under All Services, click on ```EMR``` which you can fi
 
 ![AWSEMR](/images/emr_analytics.png)
 
+As mentioned earlier, it is not just Map Reduce, EMR is basically a managed hadoop framework, so it will bring up a hadoop cluster for you and it actually has SPARK as well. It actually uses the YARN component of hadoop as a Cluster Manager, that SPARK runs on top of. 
+
+So We are going to click on EMR and get Nodes (Master Node & Client nodes), as many as we want. ```On Per hour Rent off course```
+
+Once you've acquired all the required nodes, all you need to do is to login to the master node and copy all the required data in it and make sure that it is accessible from there and run it. 
+
+##### We are going to need Putty on Windows platform to access the master node. 
+
+
 
 
