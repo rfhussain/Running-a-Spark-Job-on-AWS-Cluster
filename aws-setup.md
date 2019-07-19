@@ -58,6 +58,10 @@ You will get the following screeen
 As you can see that, AWS has auto configured 1 Master node and 4 Core (executor nodes) on the cluster.
 Also, the status shows as ```Provisioning```, which means that AWS is looking for available servers on their huge data center to provision for our job as they become available.
 
+Once done, you will get the following status.
+
+![AWSEMR](/images/cluster_running.png)
+
 
 Once you've acquired all the required nodes, all you need to do is to login to the master node and copy all the required data in it and make sure that it is accessible from there and run it. 
 
