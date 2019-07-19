@@ -28,4 +28,5 @@ Click on ```Save Private Key``` button to generate the key/value pair. After doi
 
 ![PuttyGen](/images/save_pkk.png)
 
-
+- [Main Page](README.md)
+- [Setting Up AWS](aws-setup.md)
