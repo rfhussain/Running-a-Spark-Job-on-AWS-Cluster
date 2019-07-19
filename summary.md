@@ -9,8 +9,8 @@ Making an AWS account, at times can be a lengthy process, may be your payment di
 While the payment will be just 1$ authorization, not a real charge.
 
 ### - Download PuTTY.exe and PuTTYGEN.exe
-PuTTYGEN.exe will be used for converting your Public Private Key pair to .MKK file format, which is understandable for both PuTTY.exe and WinSCP
-PuTTY.exe will be used as a terminal on Windows to actually connect to the master node on AWS and run the Job
+```PuTTYGEN.exe``` will be used for converting your Public Private Key pair to .MKK file format, which is understandable for both PuTTY.exe and WinSCP
+```PuTTY.exe``` will be used as a terminal on Windows to actually connect to the master node on AWS and run the Job
  
 ### - Download WinSCP 
 This will be used to ftp files on the master server
