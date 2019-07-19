@@ -16,7 +16,7 @@ While the payment will be just 1$ authorization, not a real charge.
 This will be used to ftp files on the master server
 
 ### - Run your code locally on a subset of actual Dataset  
-If you directly run your script on the AWS server, you need to know that one m4.xlarge server will cost you around 0.2$ per hour. 
+If you directly run your script on the AWS server, you need to know that one ```m4.xlarge server``` will cost you around 0.2$ per hour. 
 If you face any coding error or any other issue, it will unnecessarily increase your rented time. It is always better to experiment the code before you actually play on Cloud.
 
 ### - Generate Public/Private Key pair (which will be used for both PuTTY.exe and WinSCP
