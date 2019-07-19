@@ -44,6 +44,8 @@ Click on ```Create Cluster``` as shown in the figure below.
 ![AWSEMR](/images/create_cluster.PNG)
 
 You will go to the create cluster page, where I've selected the following settings. (see the image below)
+m4.xlarge instance is going to cost me around 0.2$ per hour, and I am going to rent 5 servers.
+### So for 1 hour I am going to charge for 1$
 
 ![AWSEMR](/images/create_cluster2.PNG)
 
