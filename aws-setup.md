@@ -29,7 +29,9 @@ On this page, click on ```Create Key Pair``` as shown in the image below. Provid
 
 ![AWSEMR](/images/pem_file.PNG)
 
-##### We are going to use PuTTY to connect to the AWS clustered environment and to execute our job on AWS EMR. The steps are mentioned in the next section.
+At this point, you should Stop and Complete the step mentioned below. Because, Once you create a Cluster, it will be provisioned &  running. Once running, your charging will start. So better, make your remaining home work before you actually create a Cluster. 
+
+- [The Terminal App](terminal-app.md)
 
 On the AWS Console Page, under All Services, click on ```EMR``` which you can find under ```Analytics``` as shown below
 
@@ -58,14 +60,13 @@ You will get the following screeen
 As you can see that, AWS has auto configured 1 Master node and 4 Core (executor nodes) on the cluster.
 Also, the status shows as ```Provisioning```, which means that AWS is looking for available servers on their huge data center to provision for our job as they become available.
 
+#### The whole process of up and running may take up to 5 minutes. 
+
 Once done, you will get the following status.
 
 ![AWSEMR](/images/cluster_running.PNG)
 
-
 Once you've acquired all the required nodes, all you need to do is to login to the master node and copy all the required data in it and make sure that it is accessible from there and run it. 
 
-
-
 - [Main Page](README.md)
-- [The Terminal App](terminal-app.md)
+- [FTP Your Files](secure-copy.md)
