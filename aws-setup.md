@@ -25,6 +25,10 @@ On the EC2 page, click on the Key Pairs as shown in the image below. This is to 
 
 ![AWSEMR](/images/key_pair.PNG)
 
+On this page, click on ```Create Key Pair``` as shown in the image below. Provide the name of the Key Pair, as I've given the name ```SPARKAWS``` and this will automatically downloaded to your download folder. Make sure you keep this in a safe place because once generated and downloaded, you can not download it again. 
+
+![AWSEMR](/images/pem_file.PNG)
+
 On the AWS Console Page, under All Services, click on ```EMR``` which you can find under ```Analytics``` as shown below
 
 ![AWSEMR](/images/emr_analytics.png)
