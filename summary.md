@@ -34,8 +34,8 @@ hadoop fs -ls yourdirname
 ### - Rent the Clusters
 Once all of the above pre-requisites are done, only then you are going to order servers.
 
-#### Important: You also need to enable SSH in your node security, else your clusters will not accept inbound connections either from PuTTY.exe or WinwSCP
-This documentation is not properly mentioned in AWS by default. Rather, you have to do search through their Knowledge Base and FAQs to get a clue on how you are going to enable SSH protocol inbound security 
+#### Important: You also need to enable SSH in your node security, else your clusters will not accept inbound connections either from PuTTY.exe or WinSCP
+This specific info is not properly mentioned in AWS. Rather, you have to do search through their Knowledge Base and FAQs to get a clue on how you are going to enable SSH protocol inbound security 
 In summary, you have to list all your nodes, when they are up and running (step are mentioned in Setting Up AWS) and click on each node one by one and the ```Description``` section, which will appear only when you select the node, you will have to click on Security Group under Security Groups field to add additionall SSH security
 
 
