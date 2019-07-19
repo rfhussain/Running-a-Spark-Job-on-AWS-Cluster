@@ -51,6 +51,14 @@ m4.xlarge instance is going to cost me around 0.2$ per hour, and I am going to r
 
 Click on``` Create Cluster```
 
+You will get the following screeen
+
+![AWSEMR](/images/aws_cluster_struc.png)
+
+As you can see that, AWS has auto configured 1 Master node and 4 Core (executor nodes) on the cluster.
+
+
+
 Once you've acquired all the required nodes, all you need to do is to login to the master node and copy all the required data in it and make sure that it is accessible from there and run it. 
 
 
