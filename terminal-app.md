@@ -26,4 +26,6 @@ Once you are done, the puttygen.exe would give you the following message:
 
 Click on ```Save Private Key``` button to generate the key/value pair. After doing that, we will have a .PPK file format which is underatable by PuTTY.exe and we are going to use this when connecting to the cluster.
 
+![PuttyGen](/images/save_pkk.png)
+
 
