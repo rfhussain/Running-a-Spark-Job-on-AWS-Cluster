@@ -38,4 +38,12 @@ Once all of the above pre-requisites are done, only then you are going to order 
 This documentation is not properly mentioned in AWS by default. Rather, you have to do search through their Knowledge Base and FAQs to get a clue on how you are going to enable SSH protocol inbound security 
 In summary, you have to list all your nodes, when they are up and running (step are mentioned in Setting Up AWS) and click on each node one by one and the ```Description``` section, which will appear only when you select the node, you will have to click on Security Group under Security Groups field to add additionall SSH security
 
+
+### - Connect to the Master Node, Execute the Script
+You will use PuTTY.exe to connect, and detailed procedures will come later in this article.
+
+### - Terminate the Nodes
+You must terminate the nodes, else the billing will continue and it will result in huge $$
+
+
 [Main Page](README.md)
