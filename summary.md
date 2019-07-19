@@ -46,4 +46,5 @@ You will use PuTTY.exe to connect, and detailed procedures will come later in th
 You must terminate the nodes, else the billing will continue and it will result in huge $$
 
 
-[Main Page](README.md)
+- [Main Page](README.md)
+- [Data Science Perspective](the-prespective.md)
