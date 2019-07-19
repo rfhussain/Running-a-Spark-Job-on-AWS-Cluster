@@ -18,6 +18,7 @@ Below are details about how I did it.
 - [The Dataset](the-dataset.md)
 - [Understanding the Code](the-code.md)
 - [Setting Up AWS](aws-setup.md)
+- [FTP Your Files](secure-copy.md)
 - [The Terminal App](terminal-app.md)
 - [Running the Spark Job](spark-job.md)
 - [The Source File](same-movies.py)
