@@ -18,11 +18,12 @@ Once both the applications are downloaded, open the puttygen.exe and click on ``
 
 Locate the ```SPARKAWS.pem``` file which we've saved earlier (Please keep File-Type to All Types as puttygen.exe by default looks for a PPK file ) and Load it into PuttyGen.exe as shown below.
 
-![PuttyGen](/images/putty_load.png)
+![PuttyGen](/images/putty_load.PNG)
 
 Once you are done, the puttygen.exe would give you the following message:
 
 ```Successfully Loaded```
 
-Click on ```Save Private Key``` button to generate the key/value pair. After dpomg that, we will have a .PPK file format which is underatable by AWS
+Click on ```Save Private Key``` button to generate the key/value pair. After doing that, we will have a .PPK file format which is underatable by PuTTY.exe and we are going to use this when connecting to the cluster.
+
 
