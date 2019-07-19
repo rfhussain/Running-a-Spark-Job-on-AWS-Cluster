@@ -17,8 +17,8 @@ Below are details about how I did it.
 - [The Data Science Perspective](the-prespective.md)
 - [The Dataset](the-dataset.md)
 - [Understanding the Code](the-code.md)
-- [The Terminal App](terminal-app.md)
 - [Setting Up AWS](aws-setup.md)
+- [The Terminal App](terminal-app.md)
 - [Running the Spark Job](spark-job.md)
 - [The Source File](same-movies.py)
 
