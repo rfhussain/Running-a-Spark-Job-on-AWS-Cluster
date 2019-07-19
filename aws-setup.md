@@ -1,4 +1,4 @@
-# Setting up AWS 
+# Setting up AWS
 
 Please note that you are going to need to provide your Credit Card Number in order to complete the registration. I have registered and taken a developer plan, which costed me 29$ a month. 
 
