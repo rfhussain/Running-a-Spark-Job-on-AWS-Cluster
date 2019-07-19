@@ -29,6 +29,8 @@ On this page, click on ```Create Key Pair``` as shown in the image below. Provid
 
 ![AWSEMR](/images/pem_file.PNG)
 
+##### We are going to use PuTTY to connect to the AWS clustered environment and to execute our job on AWS EMR. The steps are mentioned in the next section.
+
 On the AWS Console Page, under All Services, click on ```EMR``` which you can find under ```Analytics``` as shown below
 
 ![AWSEMR](/images/emr_analytics.png)
@@ -39,8 +41,7 @@ So We are going to click on EMR and get Nodes (Master Node & Client nodes), as m
 
 Once you've acquired all the required nodes, all you need to do is to login to the master node and copy all the required data in it and make sure that it is accessible from there and run it. 
 
-##### We are going to need Putty on Windows platform to access the master node. 
 
 
-
-
+- [Main Page](README.md)
+- [The Terminal App](terminal-app.md)
