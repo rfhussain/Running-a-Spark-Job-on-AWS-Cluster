@@ -39,6 +39,16 @@ As mentioned earlier, it is not just Map Reduce, EMR is basically a managed hado
 
 So We are going to click on EMR and get Nodes (Master Node & Client nodes), as many as we want. ```On Per hour Rent off course```
 
+Click on ```Create Cluster``` as shown in the figure below.
+
+![AWSEMR](/images/create_cluster.PNG)
+
+You will go to the create cluster page, where I've selected the following settings. (see the image below)
+
+![AWSEMR](/images/create_cluster2.PNG)
+
+Click on``` Create Cluster```
+
 Once you've acquired all the required nodes, all you need to do is to login to the master node and copy all the required data in it and make sure that it is accessible from there and run it. 
 
 
