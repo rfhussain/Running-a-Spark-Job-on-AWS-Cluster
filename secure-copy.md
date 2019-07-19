@@ -29,3 +29,9 @@ Below are the steps you need to perform for that.
 - Once Logged in, copy the files needed
 
 
+![SSHImage](/images/uploading.PNG)
+
+
+
+
+
