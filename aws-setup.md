@@ -9,8 +9,9 @@ You can also choose a “Basic” plan which will just work fine and you will on
 -	Go to https://aws.amazon.com/
 -	Create an Amazon Web Services Account
 -	Follow the instructions, and fill up your billing information and other details
+- In the last, identify your phone number by entering the code received via sms
 
-You will receive email and the last step would be to complete your identification, that is you will have to provide your phone number, where a security code will be sent and you can take that code and enter in the website to complete your registration. 
+##### Note : AWS charges 1$ from your account, which is not actually a charge but just an authorization. Sometimes this authorization may take up to 24 hours. As my registration took 2 hours to complete even though I immediately received notification from my bank that 1$ purchase has been done.  
 
 Once done, Click on ```Sign In to the Console``` as shown in the picture below
 
@@ -19,6 +20,10 @@ Once done, Click on ```Sign In to the Console``` as shown in the picture below
 Once the AWS instances are up and running, you need to actually connect to them in order to execute the job. For that, we need to have a public and private key pair. click on ```EC2``` to get the public and private key pair, as shown in the image below. These pair will help us sign in to the EMR cluster. 
 
 ![AWSEMR](/images/ec_2.PNG)
+
+On the EC2 page, click on the Key Pairs as shown in the image below. This is to create a Key/value pair which we are going to use for authentication when connecting to the cluster, to execute our job. 
+
+![AWSEMR](/images/key_pair.PNG)
 
 On the AWS Console Page, under All Services, click on ```EMR``` which you can find under ```Analytics``` as shown below
 
