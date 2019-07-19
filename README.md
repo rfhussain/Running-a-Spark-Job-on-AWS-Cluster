@@ -14,7 +14,7 @@ So, for this specific piece of code, a clustured environment is necessary. As a 
 Below are details about how I did it.
 
 - [The Summary](summary.md)
-- [The Data Science Perspective](the-prespective.md)
+- [Data Science Perspective](the-prespective.md)
 - [The Dataset](the-dataset.md)
 - [Understanding the Code](the-code.md)
 - [Setting Up AWS](aws-setup.md)
