@@ -19,7 +19,6 @@ Below are details about how I did it.
 - [Understanding the Code](the-code.md)
 - [The Terminal App](terminal-app.md)
 - [Setting Up AWS](aws-setup.md)
-- [Setting Up Local Ennvironment](local-setup.md)
-- [The Spark Job](spark-job.md)
+- [Running the Spark Job](spark-job.md)
 - [The Source File](same-movies.py)
 
