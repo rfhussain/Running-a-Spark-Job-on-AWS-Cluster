@@ -22,7 +22,7 @@ If you face any coding error or any other issue, it will unnecessarily increase 
 ### - Generate Public/Private Key pair (which will be used for both PuTTY.exe and WinSCP
 The public private key generation is an authentication process, which is standard, as you know
 
-### - FTP your code in the same folder as the data file ```ratings.dat``` which will be used in this example
+### - FTP the code/data ```ratings.dat``` in same DIR 
 The ```ratings.dat``` file, needs to be placed in HDFS folder, as sometimes the code doesn't read the relative path on the server, rather it will work and read the file from HDFS
 Below is how you are going to copy the file on the HDFS folder
 ```
