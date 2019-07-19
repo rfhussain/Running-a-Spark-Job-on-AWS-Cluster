@@ -6,7 +6,7 @@ Before I start with the steps, I am summarizing all what needs to be done in ord
 
 ### - Make an AWS account
 Making an AWS account, at times can be a lengthy process, may be your payment didn't go through or you need to contact your bank to authorize payments etc. 
-While the payment will be just 1$
+While the payment will be just 1$ authorization, not a real charge.
 
 ### - Download PuTTY.exe and PuTTYGEN.exe
 PuTTYGEN.exe will be used for converting your Public Private Key pair to .MKK file format, which is understandable for both PuTTY.exe and WinSCP
