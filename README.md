@@ -16,10 +16,9 @@ Below are details about how I did it.
 - [The Summary](summary.md)
 - [Data Science Perspective](the-prespective.md)
 - [The Dataset](the-dataset.md)
-- [Understanding the Code](the-code.md)
 - [Setting Up AWS](aws-setup.md)
 - [FTP Your Files](secure-copy.md)
 - [The Terminal App](terminal-app.md)
 - [Running the Spark Job](spark-job.md)
-- [The Source File](same-movies.py)
+- [The Source File](/source/movie_sim-1m.py)
 
